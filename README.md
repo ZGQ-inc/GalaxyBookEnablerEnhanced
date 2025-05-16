@@ -45,7 +45,7 @@ Start-Process powershell "-ep Bypass -c iwr -useb 'https://gbee.zgqinc.gq/Instal
 | [Samsung Recovery](https://apps.microsoft.com/detail/9NBFVH4X67LF) | ❌ | ✅ | ✅ | |
 | [Samsung Studio Plus Legacy](https://apps.microsoft.com/detail/9PLPF77D2R18) | ❌ | ❌ | ✅ | |
 | [Samsung Update](https://apps.microsoft.com/detail/9NQ3HDB99VBF) | ❌ | ✅ | ✅ | |
-| [Storage Share](https://apps.microsoft.com/detail/9MVNW0XH7HS5) | ✅ | ❌ | ⌛ | |
+| [Storage Share](https://apps.microsoft.com/detail/9MVNW0XH7HS5) | ✅ | ❌ | ⌛* | 正在研究 |
 | [Nearby devices](https://apps.microsoft.com/detail/9PHL04NJNT67) | ✅ | ❌ | ✅ | |
 | [Samsung Settings Runtime](https://apps.microsoft.com/detail/9NL68DVFP841) | ❌ | ❌ | ✅ | |
 | [Air Command](https://apps.microsoft.com/detail/9NCH233ZNXDW) | ❌ | ✅ | ✅ | |
