@@ -29,18 +29,18 @@ https://t.me/ZGQincLiqun/3498
 | [Galaxy Buds](https://apps.microsoft.com/detail/9NHTLWTKFZNB) | ❌ | ✅ | ✅ | |
 | [Samsung Find](https://apps.microsoft.com/detail/9MWD59CZJ1RN) | ✅ | ❌ | ⌛ | |
 | [Galaxy Book Experience](https://apps.microsoft.com/detail/9P7QF37HPMGX) | ❌ | ❌ | ✅ | |
-| [Camera Share](https://apps.microsoft.com/detail/9NPCS7FN6VB9) | ⌛ | ⌛ | ✅* | 不稳定 |
-| [PENUP](https://apps.microsoft.com/detail/9MVFWM67008Z) | ⌛ | ⌛ | ✅ | |
-| [Link Sharing](https://apps.microsoft.com/detail/9NBLGGH6H9KR) | ⌛ | ⌛ | ✅ | |
-| [Private Share](https://apps.microsoft.com/detail/9N4JRRSV8N95) | ⌛ | ⌛ | ✅ | |
-| [Samsung Bluetooth Sync](https://apps.microsoft.com/detail/9NJNNJTTFL45) | ⌛ | ⌛ | ✅ | |
-| [Samsung Cloud](https://apps.microsoft.com/detail/9NFWHCHM52HQ) | ⌛ | ⌛ | ✅ | |
-| [Samsung File Tracker](https://apps.microsoft.com/detail/9NM3BLWDMDGX) | ⌛ | ⌛ | ✅ | |
-| [Samsung Recovery](https://apps.microsoft.com/detail/9NBFVH4X67LF) | ⌛ | ⌛ | ✅ | |
-| [Samsung Studio Plus Legacy](https://apps.microsoft.com/detail/9PLPF77D2R18) | ⌛ | ⌛ | ✅ | |
-| [Samsung Update](https://apps.microsoft.com/detail/9NQ3HDB99VBF) | ⌛ | ⌛ | ✅ | |
-| [Storage Share](https://apps.microsoft.com/detail/9MVNW0XH7HS5) | ⌛ | ⌛ | ⌛ | |
-| [Nearby devices](https://apps.microsoft.com/detail/9PHL04NJNT67) | ⌛ | ⌛ | ✅ | |
-| [Samsung Settings Runtime](https://apps.microsoft.com/detail/9NL68DVFP841) | ⌛ | ⌛ | ✅ | |
-| [Air Command](https://apps.microsoft.com/detail/9NCH233ZNXDW) | ⌛ | ⌛ | ✅ | |
-| [Live Message](https://apps.microsoft.com/detail/9N1LLZZ0X72B) | ⌛ | ⌛ | ✅ | |
+| [Camera Share](https://apps.microsoft.com/detail/9NPCS7FN6VB9) | ✅ | ⌛ | ✅* | 不稳定 |
+| [PENUP](https://apps.microsoft.com/detail/9MVFWM67008Z) | ❌ | ⌛ | ✅ | |
+| [Link Sharing](https://apps.microsoft.com/detail/9NBLGGH6H9KR) | ✅ | ⌛ | ✅ | |
+| [Private Share](https://apps.microsoft.com/detail/9N4JRRSV8N95) | ✅ | ⌛ | ✅ | |
+| [Samsung Bluetooth Sync](https://apps.microsoft.com/detail/9NJNNJTTFL45) | ✅ | ⌛ | ✅ | |
+| [Samsung Cloud](https://apps.microsoft.com/detail/9NFWHCHM52HQ) | ✅ | ⌛ | ✅ | |
+| [Samsung File Tracker](https://apps.microsoft.com/detail/9NM3BLWDMDGX) | ❌ | ⌛ | ✅ | |
+| [Samsung Recovery](https://apps.microsoft.com/detail/9NBFVH4X67LF) | ❌ | ⌛ | ✅ | |
+| [Samsung Studio Plus Legacy](https://apps.microsoft.com/detail/9PLPF77D2R18) | ❌ | ⌛ | ✅ | |
+| [Samsung Update](https://apps.microsoft.com/detail/9NQ3HDB99VBF) | ❌ | ⌛ | ✅ | |
+| [Storage Share](https://apps.microsoft.com/detail/9MVNW0XH7HS5) | ✅ | ❌ | ⌛ | |
+| [Nearby devices](https://apps.microsoft.com/detail/9PHL04NJNT67) | ✅ | ⌛ | ✅ | |
+| [Samsung Settings Runtime](https://apps.microsoft.com/detail/9NL68DVFP841) | ❌ | ⌛ | ✅ | |
+| [Air Command](https://apps.microsoft.com/detail/9NCH233ZNXDW) | ❌ | ⌛ | ✅ | |
+| [Live Message](https://apps.microsoft.com/detail/9N1LLZZ0X72B) | ❌ | ⌛ | ✅ | |
