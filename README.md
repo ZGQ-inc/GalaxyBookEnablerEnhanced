@@ -18,9 +18,9 @@ https://t.me/ZGQincLiqun/3498
 | [Multi Control](https://apps.microsoft.com/detail/9N3L4FZ03Q99) | ✅ | ❌ | ✅* | 不稳定 |
 | [Samsung Continuity Service](https://apps.microsoft.com/detail/9NGW9K44GQ5F) | ✅ | ❌ | ✅ | |
 | [Second Screen](https://apps.microsoft.com/detail/9PLTXW5DX5KB) | ❌ | ✅ | ✅ | |
-| [Quick Share](https://apps.microsoft.com/detail/9PCTGDFXVZLJ) | ❌* | ✅ | ✅ | 需要牙膏厂网卡（比如AX210） |
-| [Samsung Phone](https://apps.microsoft.com/detail/9MWJXXLCHBGK) | ✅ | ✅* | ✅ | 需要牙膏厂CPU |
-| [Galaxy Book Smart Switch](https://apps.microsoft.com/detail/9PJ0J9KQWCLB) | ❌ | ✅* | ✅ | 只能往三星电脑传输文件 |
+| [Quick Share](https://apps.microsoft.com/detail/9PCTGDFXVZLJ) | ❌ | ✅ | ✅* | 需要牙膏厂网卡（比如AX210） |
+| [Samsung Phone](https://apps.microsoft.com/detail/9MWJXXLCHBGK) | ✅ | ✅ | ✅* | 需要牙膏厂CPU |
+| [Galaxy Book Smart Switch](https://apps.microsoft.com/detail/9PJ0J9KQWCLB) | ❌ | ✅ | ✅* | 只能往三星电脑传输文件 |
 | [Samsung Settings](https://apps.microsoft.com/detail/9P2TBWSHK6HJ) | ❌ | ❌ | ✅* | 需要配置SamSysSupSvc |
 | [Bixby](https://apps.microsoft.com/detail/9PHBJM786KWX) | ✅ | ❌ | ❌ | |
 | [Samsung Flow](https://apps.microsoft.com/detail/9NBLGGH5GB0M) | ❌ | ✅ | ✅ | |
