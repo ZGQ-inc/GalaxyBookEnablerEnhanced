@@ -24,8 +24,8 @@ Start-Process powershell "-ep Bypass -c iwr -useb 'https://gbee.zgqinc.gq/Instal
 | [Multi Control](https://apps.microsoft.com/detail/9N3L4FZ03Q99) | ✅ | ❌ | ✅* | 不稳定 |
 | [Samsung Continuity Service](https://apps.microsoft.com/detail/9NGW9K44GQ5F) | ✅ | ❌ | ✅ | |
 | [Second Screen](https://apps.microsoft.com/detail/9PLTXW5DX5KB) | ❌ | ✅ | ✅ | |
-| [Quick Share](https://apps.microsoft.com/detail/9PCTGDFXVZLJ) | ❌ | ✅ | ✅* | 需要牙膏厂网卡（比如AX210） |
-| [Samsung Phone](https://apps.microsoft.com/detail/9MWJXXLCHBGK) | ✅ | ✅* | ✅* | 需要牙膏厂CPU |
+| [Quick Share](https://apps.microsoft.com/detail/9PCTGDFXVZLJ) | ❌ | ✅ | ✅* | 只支持牙膏厂网卡（比如AX210） |
+| [Samsung Phone](https://apps.microsoft.com/detail/9MWJXXLCHBGK) | ✅ | ✅* | ✅* | 只支持牙膏厂CPU |
 | [Galaxy Book Smart Switch](https://apps.microsoft.com/detail/9PJ0J9KQWCLB) | ❌ | ✅* | ✅* | 只能往三星电脑传输文件 |
 | [Samsung Settings](https://apps.microsoft.com/detail/9P2TBWSHK6HJ) | ❌ | ❌ | ✅* | 需要配置SamSysSupSvc |
 | [Bixby](https://apps.microsoft.com/detail/9PHBJM786KWX) | ✅ | ❌ | ❌ | |
@@ -33,7 +33,7 @@ Start-Process powershell "-ep Bypass -c iwr -useb 'https://gbee.zgqinc.gq/Instal
 | [Samsung Device Care](https://apps.microsoft.com/detail/9NBLGGH4XDV0) | ❌ | ❌ | ❌ | |
 | [Samsung Pass](https://apps.microsoft.com/detail/9MVWDZ5KX9LH) | ✅ | ❌ | ✅ | |
 | [Galaxy Buds](https://apps.microsoft.com/detail/9NHTLWTKFZNB) | ❌ | ✅ | ✅ | |
-| [Samsung Find](https://apps.microsoft.com/detail/9MWD59CZJ1RN) | ✅ | ✅* | ✅* | 需要牙膏厂CPU |
+| [Samsung Find](https://apps.microsoft.com/detail/9MWD59CZJ1RN) | ✅ | ✅* | ✅* | 只支持牙膏厂CPU |
 | [Galaxy Book Experience](https://apps.microsoft.com/detail/9P7QF37HPMGX) | ❌ | ❌ | ✅ | |
 | [Camera Share](https://apps.microsoft.com/detail/9NPCS7FN6VB9) | ✅ | ❌ | ✅* | 不稳定 |
 | [PENUP](https://apps.microsoft.com/detail/9MVFWM67008Z) | ❌ | ✅ | ✅ | |
