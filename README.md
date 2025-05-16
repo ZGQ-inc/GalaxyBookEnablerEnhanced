@@ -6,17 +6,17 @@
 | 应用名称&连接 | 需要三星账号 | 支持非三星电脑 | 备注 |
 |----------|--------------------------|------------------------------|-------|
 | [Samsung Account](https://apps.microsoft.com/detail/9P98T77876KZ) | ✅ | ✅ | |
-| [Samsung Notes](https://apps.microsoft.com/detail/9NBLGGH43VHV) | ❌* | ❌ | |
+| [Samsung Notes](https://apps.microsoft.com/detail/9NBLGGH43VHV) | ❌ | ❌ | |
 | [Quick Search](https://apps.microsoft.com/detail/9N092440192Z) | ❌ | ❌ | |
 | [Live Wallpaper](https://apps.microsoft.com/detail/9N1G7F25FXCB) | ❌ | ❌ | |
-| [Samsung Gallery](https://apps.microsoft.com/detail/9NBLGGH4N9R9) | ❌* | ✅ | |
+| [Samsung Gallery](https://apps.microsoft.com/detail/9NBLGGH4N9R9) | ❌ | ✅ | |
 | [Samsung Studio](https://apps.microsoft.com/detail/9P312B4TZFFH) | ❌ | ❌ | |
 | [Samsung Studio for Gallery](https://apps.microsoft.com/detail/9NND8BT5WFC5) | ❌ | ❌ | |
 | [SmartThings](https://apps.microsoft.com/detail/9N3ZBH5V7HX6) | ✅ | ✅ | |
 | [Samsung Screen Recorder](https://apps.microsoft.com/detail/9P5025MM7WDT) | ❌ | ✅ | |
 | [Multi Control](https://apps.microsoft.com/detail/9N3L4FZ03Q99) | ✅ | ❌ | |
 | [Samsung Continuity Service](https://apps.microsoft.com/detail/9NGW9K44GQ5F) | ✅ | ❌ | |
-| [Second Screen](https://apps.microsoft.com/detail/9PLTXW5DX5KB) | ❌* | ✅ | |
+| [Second Screen](https://apps.microsoft.com/detail/9PLTXW5DX5KB) | ❌ | ✅ | |
 | [Quick Share](https://apps.microsoft.com/detail/9PCTGDFXVZLJ) | ❌* | ✅ | 需要牙膏厂网卡（比如AX210） |
 | [Samsung Phone](https://apps.microsoft.com/detail/9MWJXXLCHBGK) | ✅ | ✅* | 需要牙膏厂CPU |
 | [Galaxy Book Smart Switch](https://apps.microsoft.com/detail/9PJ0J9KQWCLB) | ❌ | ✅* | 只能往三星电脑传输文件 |
