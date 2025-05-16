@@ -7,7 +7,7 @@ https://t.me/ZGQincLiqun/3498
 ### 全部安装
 
 ```PowerShell
-Start-Process powershell "-ep Bypass -c iwr -useb '[URL](https://gbee.zgqinc.gq/InstallAllSamsungApps.ps1)' | iex" -Verb RunAs
+Start-Process powershell "-ep Bypass -c iwr -useb 'https://gbee.zgqinc.gq/InstallAllSamsungApps.ps1' | iex" -Verb RunAs
 ```
 
 | 应用名称&连接 | 需要三星账号 | 支持非三星电脑 | 可以破除限制 | 备注 |
