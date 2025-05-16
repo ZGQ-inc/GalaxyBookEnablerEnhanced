@@ -7,7 +7,6 @@ function InstallPackage($packageName, $packageId) {
         Write-Output "Installation of $packageName completed successfully."
     } catch {
         Write-Output "Error installing $packageName $_"
-        Write-Log "Error installing $packageName $_"
     }
 }
 
