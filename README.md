@@ -32,7 +32,7 @@ Start-Process powershell "-ep Bypass -c iwr -useb 'https://gbee.zgqinc.gq/Instal
 | [Samsung Flow](https://apps.microsoft.com/detail/9NBLGGH5GB0M) | ❌ | ✅ | ✅ | |
 | [Samsung Device Care](https://apps.microsoft.com/detail/9NBLGGH4XDV0) | ❌ | ❌ | ❌ | |
 | [Samsung Pass](https://apps.microsoft.com/detail/9MVWDZ5KX9LH) | ✅ | ❌ | ✅ | |
-| [Galaxy Buds](https://apps.microsoft.com/detail/9NHTLWTKFZNB) | ❌ | ✅ | ✅ | |
+| [Galaxy Buds](https://apps.microsoft.com/detail/9NHTLWTKFZNB) | ❌ | ✅* | ✅* | 非牙膏厂网卡可能无法使用无缝连接。 |
 | [Samsung Find](https://apps.microsoft.com/detail/9MWD59CZJ1RN) | ✅ | ✅* | ✅* | 只支持牙膏厂CPU。 |
 | [Galaxy Book Experience](https://apps.microsoft.com/detail/9P7QF37HPMGX) | ❌ | ❌ | ✅ | |
 | [Camera Share](https://apps.microsoft.com/detail/9NPCS7FN6VB9) | ✅ | ❌ | ✅* | 不稳定。 |
