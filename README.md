@@ -24,7 +24,7 @@ Start-Process powershell "-ep Bypass -c iwr -useb 'https://gbee.zgqinc.gq/Instal
 | [Multi Control](https://apps.microsoft.com/detail/9N3L4FZ03Q99) | ✅ | ❌ | ✅* | 不稳定。 |
 | [Samsung Continuity Service](https://apps.microsoft.com/detail/9NGW9K44GQ5F) | ✅ | ❌ | ✅ | |
 | [Second Screen](https://apps.microsoft.com/detail/9PLTXW5DX5KB) | ❌ | ✅ | ✅ | |
-| [Quick Share](https://apps.microsoft.com/detail/9PCTGDFXVZLJ) | ❌ | ✅ | ✅* | 只支持牙膏厂网卡（比如AX210），PC有时候无法被扫描到。 |
+| [Quick Share](https://apps.microsoft.com/detail/9PCTGDFXVZLJ) | ❌ | ❌ | ✅* | 只支持牙膏厂网卡（比如AX210），PC有时候无法被扫描到。 |
 | [Samsung Phone](https://apps.microsoft.com/detail/9MWJXXLCHBGK) | ✅ | ✅* | ✅* | 只支持牙膏厂CPU。 |
 | [Galaxy Book Smart Switch](https://apps.microsoft.com/detail/9PJ0J9KQWCLB) | ❌ | ✅* | ✅* | 只能往三星电脑传输文件。 |
 | [Samsung Settings](https://apps.microsoft.com/detail/9P2TBWSHK6HJ) | ❌ | ❌ | ✅* | 需要配置SamSysSupSvc。 |
