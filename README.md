@@ -50,3 +50,6 @@ Start-Process powershell "-ep Bypass -c iwr -useb 'https://gbee.zgqinc.gq/Instal
 | [Samsung Settings Runtime](https://apps.microsoft.com/detail/9NL68DVFP841) | ❌ | ❌ | ✅ | |
 | [Air Command](https://apps.microsoft.com/detail/9NCH233ZNXDW) | ❌ | ✅ | ✅ | |
 | [Live Message](https://apps.microsoft.com/detail/9N1LLZZ0X72B) | ❌ | ✅ | ✅ | |
+| [Knox Matrix](https://apps.microsoft.com/detail/9NJRV1DT8N79) | ✅ | ✅ | ✅ | |
+| [AI Select](https://apps.microsoft.com/detail/9PM11FHJQLZ4) | ❌ | ❌ | ✅* | 无法捕获屏幕内容。 |
+| [Samsung Intelligence Service](https://apps.microsoft.com/detail/9NS0SHL4PQL9) | ❌ | ❌ | ✅ | |
