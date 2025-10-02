@@ -13,7 +13,7 @@ Start-Process powershell "-ep Bypass -c iwr -useb 'https://gbee.zgqinc.gq/Instal
 | 应用名称&链接 | 需要三星账号 | 支持非三星电脑 | 可以破除限制 | 备注 |
 |--------------|-------------|---------------|-------------|-----|
 | [Samsung Account](https://apps.microsoft.com/detail/9P98T77876KZ) | ✅ | ✅ | ✅ | |
-| [Samsung Notes](https://apps.microsoft.com/detail/9NBLGGH43VHV) | ❌ | ❌ | ✅ | |
+| [Samsung Notes](https://apps.microsoft.com/detail/9NBLGGH43VHV) | ❌ | ✅ | ✅ | |
 | [Quick Search](https://apps.microsoft.com/detail/9N092440192Z) | ❌ | ❌ | ❌ | |
 | [Live Wallpaper](https://apps.microsoft.com/detail/9N1G7F25FXCB) | ❌ | ❌ | ✅ | |
 | [Samsung Gallery](https://apps.microsoft.com/detail/9NBLGGH4N9R9) | ❌ | ✅ | ✅ | |
