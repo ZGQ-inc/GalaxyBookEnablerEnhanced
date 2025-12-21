@@ -52,7 +52,7 @@ Start-Process powershell "-ep Bypass -c iwr -useb 'https://gbee.zgqinc.gq/Instal
 | [Live Message](https://apps.microsoft.com/detail/9N1LLZZ0X72B) | ❌ | ✅ | ✅ | |
 | [Knox Matrix](https://apps.microsoft.com/detail/9NJRV1DT8N79) | ✅ | ✅ | ✅ | |
 | [AI Select](https://apps.microsoft.com/detail/9PM11FHJQLZ4) | ❌ | ❌ | ✅* | 无法捕获屏幕内容。 |
-| [Samsung Intelligence Service](https://apps.microsoft.com/detail/9NS0SHL4PQL9) | ❌ | ❌ | ✅ | |
+| [Samsung Intelligence Service](https://apps.microsoft.com/detail/9NS0SHL4PQL9) | ❌ | ✅ | ✅ | |
 | [Samsung SmartSwitch](https://apps.microsoft.com/detail/9NH4F7J77CPD) | ❌ | ✅ | ✅ | |
 | [Samsung Parental Controls](https://apps.microsoft.com/detail/9N5GWJTCZKGS) | ✅ | ✅ | ✅ | |
 | [Game Link](https://apps.microsoft.com/detail/9NLZT58ZSS8Z) | ❌ | ✅ | ✅ | |
