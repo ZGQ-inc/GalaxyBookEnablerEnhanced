@@ -6,10 +6,21 @@ https://github.com/Bananz0/GalaxyBookEnabler
 
 # 安装
 
+> [!CAUTION]
+> 如果之前使用过老方法，请先进行还原
+
+### 还原命令
+
+```PowerShell
+irm https://gbee.zgqinc.gq/restore.ps1 | iex
+```
+
 > [!IMPORTANT]
 > 脚本需要使用PowerShell 7.x也就是preview版本才能运行。
 
-PowerShell 7.x下载地址：https://apps.microsoft.com/detail/9P95ZZKTNRN4
+### PowerShell 7.x下载地址
+
+https://apps.microsoft.com/detail/9P95ZZKTNRN4
 
 ### 安装命令
 
@@ -22,7 +33,7 @@ saps pwsh-preview -Verb RunAs -Args "-nop -c irm https://raw.githubusercontent.c
 ### 全部安装
 
 ```PowerShell
-Start-Process powershell "-ep Bypass -c iwr -useb 'https://gbee.zgqinc.gq/InstallAllSamsungApps.ps1' | iex" -Verb RunAs
+saps powershell "-c irm https://gbee.zgqinc.gq/InstallAllSamsungApps.ps1|iex" -Verb RunAs
 ```
 
 | 应用名称&链接 | 需要三星账号 | 支持非三星电脑 | 可以破除限制 | 备注 |
