@@ -7,7 +7,7 @@ https://github.com/Bananz0/GalaxyBookEnabler
 # 安装
 
 > [!CAUTION]
-> 如果之前使用过老方法，请先进行还原
+> 如果之前使用过老方法，请先进行还原。
 
 ### 还原命令
 
