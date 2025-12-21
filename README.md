@@ -6,9 +6,12 @@ https://github.com/Bananz0/GalaxyBookEnabler
 
 # 安装
 
-> [!IMPORTANT] 提示
-> 脚本需要使用PowerShell 7.x也就是preview版本才能运行，下载地址：
-> https://apps.microsoft.com/detail/9P95ZZKTNRN4
+> [!IMPORTANT]
+> 脚本需要使用PowerShell 7.x也就是preview版本才能运行。
+
+PowerShell 7.x下载地址：https://apps.microsoft.com/detail/9P95ZZKTNRN4
+
+### 安装命令
 
 ```PowerShell
 saps pwsh-preview -Verb RunAs -Args "-nop -c irm https://raw.githubusercontent.com/Bananz0/GalaxyBookEnabler/main/Install-GalaxyBookEnabler.ps1|iex"
