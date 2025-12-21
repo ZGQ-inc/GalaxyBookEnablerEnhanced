@@ -1,6 +1,18 @@
 # GalaxyBookEnablerEnhanced
 
-https://t.me/ZGQincLiqun/3498
+https://github.com/Bananz0/GalaxyBookEnabler
+
+~~https://t.me/ZGQincLiqun/3498~~
+
+# 安装
+
+> [!IMPORTANT] 提示
+> 脚本需要使用PowerShell 7.x也就是preview版本才能运行，下载地址：
+> https://apps.microsoft.com/detail/9P95ZZKTNRN4
+
+```PowerShell
+saps pwsh-preview -Verb RunAs -Args "-nop -c irm https://raw.githubusercontent.com/Bananz0/GalaxyBookEnabler/main/Install-GalaxyBookEnabler.ps1|iex"
+```
 
 # 三星应用程序列表
 
