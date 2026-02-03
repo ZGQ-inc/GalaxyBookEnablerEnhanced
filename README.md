@@ -82,3 +82,4 @@ saps powershell "-c irm https://gbee.zgqinc.gq/InstallAllSamsungApps.ps1|iex" -V
 | [Samsung SmartSwitch](https://apps.microsoft.com/detail/9NH4F7J77CPD) | ❌ | ✅ | ✅ | |
 | [Samsung Parental Controls](https://apps.microsoft.com/detail/9N5GWJTCZKGS) | ✅ | ✅ | ✅ | |
 | [Game Link](https://apps.microsoft.com/detail/9NLZT58ZSS8Z) | ❌ | ✅ | ✅ | |
+| [PC Diagnostics](https://apps.microsoft.com/detail/9P1LBF8TJ9BL) | ❌ | ❌ | ❌ | |
