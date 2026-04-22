@@ -47,9 +47,9 @@ saps powershell "-c irm https://gbee.zgqinc.gq/InstallAllSamsungApps.ps1|iex" -V
 | [Samsung Studio for Gallery](https://apps.microsoft.com/detail/9NND8BT5WFC5) | ❌ | ❌ | ✅ | |
 | [SmartThings](https://apps.microsoft.com/detail/9N3ZBH5V7HX6) | ✅ | ✅ | ✅ | |
 | [Samsung Screen Recorder](https://apps.microsoft.com/detail/9P5025MM7WDT) | ❌ | ✅ | ✅ | |
-| [Multi Control](https://apps.microsoft.com/detail/9N3L4FZ03Q99) | ✅ | ❌ | ✅* | 不稳定。只支持牙膏厂网卡（比如AX210）。 |
-| [Samsung Continuity Service](https://apps.microsoft.com/detail/9NGW9K44GQ5F) | ✅ | ❌ | ✅ | |
-| [Second Screen](https://apps.microsoft.com/detail/9PLTXW5DX5KB) | ❌ | ✅ | ✅ | |
+| [Multi Control](https://apps.microsoft.com/detail/9N3L4FZ03Q99) | ✅ | ✅ | ✅* | 不稳定。只支持牙膏厂网卡（比如AX210）。 |
+| [Galaxy Connect](https://apps.microsoft.com/detail/9NGW9K44GQ5F) | ✅ | ✅ | ✅ | |
+| [Second Screen](https://apps.microsoft.com/detail/9PLTXW5DX5KB) | ✅ | ✅ | ✅ | |
 | [Quick Share](https://apps.microsoft.com/detail/9PCTGDFXVZLJ) | ❌ | ❌ | ✅* | 只支持牙膏厂网卡（比如AX210），PC有时候无法被扫描到。 |
 | [Samsung Phone](https://apps.microsoft.com/detail/9MWJXXLCHBGK) | ✅ | ✅* | ✅* | 只支持牙膏厂CPU。 |
 | [Galaxy Book Smart Switch](https://apps.microsoft.com/detail/9PJ0J9KQWCLB) | ❌ | ✅* | ✅* | 只能往三星电脑传输文件。 |
@@ -61,7 +61,7 @@ saps powershell "-c irm https://gbee.zgqinc.gq/InstallAllSamsungApps.ps1|iex" -V
 | [Galaxy Buds](https://apps.microsoft.com/detail/9NHTLWTKFZNB) | ❌ | ✅* | ✅* | 非牙膏厂网卡可能无法使用无缝连接。 |
 | [Samsung Find](https://apps.microsoft.com/detail/9MWD59CZJ1RN) | ✅ | ✅* | ✅* | 只支持牙膏厂CPU。 |
 | [Galaxy Book Experience](https://apps.microsoft.com/detail/9P7QF37HPMGX) | ❌ | ❌ | ✅ | |
-| [Camera Share](https://apps.microsoft.com/detail/9NPCS7FN6VB9) | ✅ | ❌ | ✅* | 不稳定。只支持牙膏厂网卡（比如AX210）。 |
+| [Camera Share](https://apps.microsoft.com/detail/9NPCS7FN6VB9) | ✅ | ✅ | ✅* | 不稳定。只支持牙膏厂网卡（比如AX210）。 |
 | [PENUP](https://apps.microsoft.com/detail/9MVFWM67008Z) | ❌ | ✅ | ✅ | |
 | [Link Sharing](https://apps.microsoft.com/detail/9NBLGGH6H9KR) | ✅ | ✅ | ✅ | |
 | [Private Share](https://apps.microsoft.com/detail/9N4JRRSV8N95) | ✅ | ❌ | ✅ | |
@@ -71,13 +71,13 @@ saps powershell "-c irm https://gbee.zgqinc.gq/InstallAllSamsungApps.ps1|iex" -V
 | [Samsung Recovery](https://apps.microsoft.com/detail/9NBFVH4X67LF) | ❌ | ✅ | ✅ | |
 | [Samsung Studio Plus Legacy](https://apps.microsoft.com/detail/9PLPF77D2R18) | ❌ | ❌ | ✅ | |
 | [Samsung Update](https://apps.microsoft.com/detail/9NQ3HDB99VBF) | ❌ | ✅ | ✅ | |
-| [Storage Share](https://apps.microsoft.com/detail/9MVNW0XH7HS5) | ✅ | ❌ | ⌛* | 正在研究。 |
-| [Nearby devices](https://apps.microsoft.com/detail/9PHL04NJNT67) | ✅ | ❌ | ✅ | |
+| [Storage Share](https://apps.microsoft.com/detail/9MVNW0XH7HS5) | ✅ | ✅* | ✅* | 仅电脑与电脑之间同步。 |
+| [Nearby devices](https://apps.microsoft.com/detail/9PHL04NJNT67) | ✅ | ✅ | ✅ | |
 | [Samsung Settings Runtime](https://apps.microsoft.com/detail/9NL68DVFP841) | ❌ | ❌ | ✅ | |
 | [Air Command](https://apps.microsoft.com/detail/9NCH233ZNXDW) | ❌ | ✅ | ✅ | |
 | [Live Message](https://apps.microsoft.com/detail/9N1LLZZ0X72B) | ❌ | ✅ | ✅ | |
 | [Knox Matrix](https://apps.microsoft.com/detail/9NJRV1DT8N79) | ✅ | ✅ | ✅ | |
-| [AI Select](https://apps.microsoft.com/detail/9PM11FHJQLZ4) | ❌ | ❌ | ✅* | 无法捕获屏幕内容。 |
+| [AI Select](https://apps.microsoft.com/detail/9PM11FHJQLZ4) | ❌ | ❌ | ✅ | |
 | [Samsung Intelligence Service](https://apps.microsoft.com/detail/9NS0SHL4PQL9) | ❌ | ✅ | ✅ | |
 | [Samsung SmartSwitch](https://apps.microsoft.com/detail/9NH4F7J77CPD) | ❌ | ✅ | ✅ | |
 | [Samsung Parental Controls](https://apps.microsoft.com/detail/9N5GWJTCZKGS) | ✅ | ✅ | ✅ | |
